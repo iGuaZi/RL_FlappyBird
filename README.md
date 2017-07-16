@@ -13,9 +13,9 @@ And it also tries to use Asynchronous actor-critic to play Flappy Bird, but find
 
 ## How to Run?
 ```
-git clone https://github.com/yenchenlin1994/DeepLearningFlappyBird.git
-cd DeepLearningFlappyBird
-python (Prioritized)(Double)(Dueling)DQN.py
+git clone https://github.com/iGuaZi/RL_FlappyBird.git
+cd RL_FlappyBird
+python Double Dueling DQN.py
 ```
 
 ## What is Deep Q-Network?
